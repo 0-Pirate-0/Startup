@@ -775,7 +775,7 @@ h6 {
 	font-family: "Roboto Slab", serif;
 	color: #767676;
 }
-.blog__autor span:hover {
+.blog__autor span {
 	color: #a53322;
 }
 .blog__text {
