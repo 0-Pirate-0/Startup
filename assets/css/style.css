@@ -366,11 +366,13 @@ h6 {
 	}
 }
 
-.nav_t--bgw::after, .nav_t--bgw::before {
+.nav_t--bgw::after,
+.nav_t--bgw::before {
 	background: #fff;
 }
 
-.nav_t--bgg::after, .nav_t--bgg::before {
+.nav_t--bgg::after,
+.nav_t--bgg::before {
 	background: #000;
 }
 
